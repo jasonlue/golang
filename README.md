@@ -1,1 +1,1 @@
-# golang playground
+# useful golang utils
